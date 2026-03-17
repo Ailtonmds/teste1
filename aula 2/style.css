@@ -1,0 +1,58 @@
+/* body {
+  background-image: url(img/papaleo.jpg);
+  background-repeat: repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #333;
+} */
+.h-1 {
+    text-align: center;
+    font-size: 30px; 
+    color: blue;
+    background-color: aqua; 
+    border: 5px solid black;
+    margin-top: 100px;
+}
+.h-2 {
+  text-align: center;
+  color: blue;
+  background-color: aquamarine;
+  border: 2px solid black;
+  margin-top: 10px;
+}
+.img-maick {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+#conteiner {
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-around;
+  width: 600px;
+  height: 400px;
+  background-color: aqua;
+}
+#info1 {
+  width: 200px;
+  height: 200px;
+}
+#info2 {
+  width: 200px;
+  height: 200px;
+}
+#foto1 {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: 100px auto;
+  border: 2px solid black;
+}
+#foto2 {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: 100px auto;
+  border: 2px solid black;
+}
